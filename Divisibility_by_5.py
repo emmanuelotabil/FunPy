@@ -14,4 +14,5 @@ for num in numbers:
     if int_num % 5==0:
         values.append(num)
 
-print('The binary number(s) which is/are divisible by 5 when converted to decimal are: ',values)
+#Print outcome
+print('\n\nThe binary number(s) which is/are divisible by 5 when converted to decimal are: \n',values)
