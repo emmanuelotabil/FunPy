@@ -12,3 +12,6 @@ Write a program which can compute the factorial of a given numbers.
 ***Num_square***
 
 Write a program to generate a dictionary that contains (i, i*i) such that is an integral number between two givn limits(both included) is square and then the program should print the dictionary.
+
+***List_tuple***
+Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.
